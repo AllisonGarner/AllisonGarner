@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new concepts in coding and development
 - 🌱 I’m currently learning Mobile App Development
 - 💞️ I’m looking to collaborate on different verticals
-- 📫 How to reach me 
+- 📫 Reach me via email or msg
 
 <!---
 AllisonGarner/AllisonGarner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
